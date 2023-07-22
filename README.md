@@ -1,7 +1,7 @@
 # PixelArt
 Simple Python script for pixelating and upscaling an input image.
 
-![IMAGE](https://imgur.com/rw9xooS)
+![IMAGE](https://i.imgur.com/rw9xooS.jpeg)
 
 ## Requirements:
 - [Python 3.X.X](https://www.python.org/downloads/)
